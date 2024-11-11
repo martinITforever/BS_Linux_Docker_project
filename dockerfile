@@ -1,0 +1,1 @@
+FROM ngninx:1.10.1-alpine
